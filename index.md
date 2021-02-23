@@ -18,7 +18,7 @@ Freaky Sweet Funkin: A Senic Spinoff
 ```markdown
 Credits
 FAQ
-[Discord](https://discord.gg/wjzF7NArAn)
+https://discord.gg/wjzF7NArAn
 KEGA Fusion emulator
 Sonic 3 AIR
 ```
