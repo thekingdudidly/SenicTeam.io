@@ -5,7 +5,7 @@ Here is where you can find Senic Team projects of past and present. Have fun!
 ### Our games
 
 
-* [Senic eXtreme eXtravaganza]
+* [Senic eXtreme eXtravaganza](Senic eXtreme eXtravaganza Demo 1.zip)
 * Senic Teh Hedhood
 * Senic Teh Hedhood 2
 * Senic Teh Hedhood 3
