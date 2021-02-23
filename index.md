@@ -19,5 +19,5 @@ Here is where you can find Senic Team projects of past and present. Have fun!
 * Credits
 * FAQ
 * [Discord](https://discord.gg/wjzF7NArAn)
-* KEGA Fusion emulator
-* Sonic 3 AIR
+* [KEGA Fusion emulator](http://www.emulator-zone.com/doc.php/genesis/fusion.html)
+* [Sonic 3 AIR](https://sonic3air.org/)
