@@ -13,7 +13,7 @@ Here is where you can find Senic Team projects of past and present. Have fun!
 
 ### Other stuff (May be required to play our games)
 
-* Fan submissions
+* [Fan submissions](https://thekingdudidly.github.io/SenicTeam.io-Fan-submissions/)
 * [Credits](https://thekingdudidly.github.io/SenicTeam.io-Credits/)
 * [FAQ](https://thekingdudidly.github.io/SenicTeam.io-FAQ/)
 * [Discord](https://discord.gg/wjzF7NArAn)
