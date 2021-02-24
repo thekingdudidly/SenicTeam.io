@@ -16,7 +16,7 @@ Here is where you can find Senic Team projects of past and present. Have fun!
 ### Other stuff (May be required to play our games)
 
 
-* Credits
+* [Credits](https://thekingdudidly.github.io/SenicTeam.io-Credits/)
 * [FAQ](https://thekingdudidly.github.io/SenicTeam.io-FAQ/)
 * [Discord](https://discord.gg/wjzF7NArAn)
 * [KEGA Fusion emulator](https://www.carpeludum.com/kega-fusion/)
