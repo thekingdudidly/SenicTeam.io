@@ -14,7 +14,6 @@ Here is where you can find Senic Team projects of past and present. Have fun!
 ### Other stuff (May be required to play our games)
 
 - [Blog](https://thekingdudidly.github.io/SenicTeam.io-Blog/)
-- [Art]
 - [Fan submissions](https://thekingdudidly.github.io/SenicTeam.io-Fan-submissions/)
 - [FAQ](https://thekingdudidly.github.io/SenicTeam.io-FAQ/)
 - [Credits](https://thekingdudidly.github.io/SenicTeam.io-Credits/)
